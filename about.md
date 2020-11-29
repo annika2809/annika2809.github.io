@@ -1,6 +1,6 @@
 ## about1
 
-[Bild 1]: C:\Users\annic\Documents\GitHub\annika2809.github.io/katze-zu-hause-sandrobolo.jpg
+[Bild 1]: https://www.deine-tierwelt.de/magazin/wp-content/uploads/sites/2/2020/07/katze-zu-hause-sandrobolo.jpg
 ![Katze][Bild 1]
 
 _Hallo!_
