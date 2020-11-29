@@ -5,3 +5,7 @@ _Zum Probieren_
 
 [Zur Startseite](https://annika2809.github.io/)
 
+[About](https://annika2809.github.io/about)
+
+[ReadMe](https://annika2809.github.io/readme)
+
