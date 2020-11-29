@@ -1,6 +1,6 @@
 ## about1
 
-[Katze](C:\Users\annic\Documents\GitHub\annika2809.github.io/katze-zu-hause-sandrobolo.jpg)
+[Katze]: C:\Users\annic\Documents\GitHub\annika2809.github.io/katze-zu-hause-sandrobolo.jpg
 
 _Hallo!_
 
