@@ -7,5 +7,5 @@ _Zum Probieren_
 
 [About](https://annika2809.github.io/about)
 
-[ReadMe](https://annika2809.github.io/readme)
+[HowTo](https://annika2809.github.io/howto)
 
